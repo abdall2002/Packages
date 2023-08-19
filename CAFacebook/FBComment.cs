@@ -8,6 +8,16 @@ namespace CAFacebook
 {
     public class FBComment
     {
+        public string Owner { get; set; }
+        public string Comment { get; set; }
+        public DateTime CreatedAt { get; set; }
 
+        public override string ToString()
+        {
+            return $"{Owner} says: \n" +
+                   $"\"{Comment}\"" +
+                   $"\n\t\t\t\t {CreatedAt.ToString("yyyy-MM-dd hh:mm")}";
+        }
+        
     }
 }
