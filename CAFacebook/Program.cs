@@ -3,6 +3,7 @@
 using System;
 using CAFacebook;
 
+/* Packages */
 var comments = new List<FBComment>
 {
     new FBComment
@@ -42,6 +43,9 @@ var comments = new List<FBComment>
         CreatedAt = DateTime.Now.AddMinutes(-5)
     }
 };
+
+foreach (var comment in comments)
+    Console.WriteLine(comment);
 
 
 
