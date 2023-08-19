@@ -20,12 +20,12 @@ namespace CAFacebook
                    $"\"{Comment}\"" +
                    $"\n\t\t\t\t {CreatedAt.Humanize()}";
         }
-        public override string ToString()
-        {
-            return $"{Owner} says: \n" +
-                   $"\"{Comment}\"" +
-                   $"\n\t\t\t\t {CreatedAt.ToString("yyyy-MM-DueDate hh:mm")}";
-        }
+        //public override string ToString()
+        //{
+        //    return $"{Owner} says: \n" +
+        //           $"\"{Comment}\"" +
+        //           $"\n\t\t\t\t {CreatedAt.ToString("yyyy-MM-DueDate hh:mm")}";
+        //}
 
     }
 }
