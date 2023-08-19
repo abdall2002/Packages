@@ -1,0 +1,17 @@
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\bin\Debug\net7.0\CAFacebook.exe
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\bin\Debug\net7.0\CAFacebook.deps.json
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\bin\Debug\net7.0\CAFacebook.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\bin\Debug\net7.0\CAFacebook.dll
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\bin\Debug\net7.0\CAFacebook.pdb
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\obj\Debug\net7.0\CAFacebook.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\obj\Debug\net7.0\CAFacebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\obj\Debug\net7.0\CAFacebook.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\obj\Debug\net7.0\CAFacebook.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\obj\Debug\net7.0\CAFacebook.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\obj\Debug\net7.0\CAFacebook.dll
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\obj\Debug\net7.0\refint\CAFacebook.dll
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\obj\Debug\net7.0\CAFacebook.pdb
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\obj\Debug\net7.0\CAFacebook.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\obj\Debug\net7.0\ref\CAFacebook.dll
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\bin\Debug\net7.0\Humanizer.dll
+C:\Users\COMPUMARTS\source\repos\PackagingAndNugetPackage\CAFacebook\obj\Debug\net7.0\CAFacebook.csproj.CopyComplete

@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Humanizer;
+using Microsoft.VisualBasic;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,8 +18,14 @@ namespace CAFacebook
         {
             return $"{Owner} says: \n" +
                    $"\"{Comment}\"" +
-                   $"\n\t\t\t\t {CreatedAt.ToString("yyyy-MM-dd hh:mm")}";
+                   $"\n\t\t\t\t {CreatedAt.Humanize()}";
         }
-        
+        public override string ToString()
+        {
+            return $"{Owner} says: \n" +
+                   $"\"{Comment}\"" +
+                   $"\n\t\t\t\t {CreatedAt.ToString("yyyy-MM-DueDate hh:mm")}";
+        }
+
     }
 }
